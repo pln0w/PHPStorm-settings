@@ -1,0 +1,11 @@
+<application>
+  <component name="EditorSettings">
+    <option name="CARET_BLINKING_PERIOD" value="300" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+    <option name="tagTreeHighlightingOpacity" value="15" />
+  </component>
+</application>
