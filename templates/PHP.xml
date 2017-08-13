@@ -1,10 +1,10 @@
 <templateSet group="PHP">
-  <template name="vd" value="var_dump($END$); die();" toReformat="false" toShortenFQNames="true">
+  <template name="vd" value="var_dump($END$); die();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
