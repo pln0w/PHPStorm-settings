@@ -1,9 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <option name="showDebuggerOnBreakpoint" value="false" />
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
