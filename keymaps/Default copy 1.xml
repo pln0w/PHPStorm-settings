@@ -10,6 +10,10 @@
   <action id="CodeCompletion" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -18,6 +22,9 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
