@@ -7,7 +7,27 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfix\b.*" />
-    <pattern pattern="\bnote\b.*" />
+    <pattern case-sensitive="true" pattern="\bNOTE\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bOneToOne\b. *">
+      <option name="FOREGROUND" value="c05839" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bOneToMany\b. *">
+      <option name="FOREGROUND" value="c05839" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bManyToMany\b. *">
+      <option name="FOREGROUND" value="c05839" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bManyToOne\b. *">
+      <option name="FOREGROUND" value="c05839" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
