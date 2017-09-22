@@ -8,34 +8,10 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfix\b.*" />
     <pattern case-sensitive="true" pattern="\bNOTE\b.*" />
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bOneToOne\b.*">
-      <option name="FOREGROUND" value="c05839" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="3c3f41" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bOneToMany\b.*">
-      <option name="FOREGROUND" value="c05839" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="3c3f41" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bManyToMany\b.*">
-      <option name="FOREGROUND" value="c05839" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="3c3f41" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bManyToOne\b.*">
-      <option name="FOREGROUND" value="c05839" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="3c3f41" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
+    <pattern case-sensitive="true" pattern="\bOneToOne\b.*" />
+    <pattern case-sensitive="true" pattern="\bOneToMany\b.*" />
+    <pattern case-sensitive="true" pattern="\bManyToMany\b.*" />
+    <pattern case-sensitive="true" pattern="\bManyToOne\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
