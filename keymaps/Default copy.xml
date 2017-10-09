@@ -49,9 +49,6 @@
   <action id="PhpAnnotation.Doctrine.Orm.PropertyGenerator">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
