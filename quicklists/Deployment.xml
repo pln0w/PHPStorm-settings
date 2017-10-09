@@ -1,0 +1,3 @@
+<list display="Deployment" description="Deployment actions">
+  <action id="WebDeployment.Configuration" />
+</list>
