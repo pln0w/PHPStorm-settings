@@ -27,7 +27,7 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" case-sensitive="true" pattern="\NOTE\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="NOTE.*" />
     <pattern icon="question" case-sensitive="true" pattern="ManyToOne.*" />
     <pattern icon="question" case-sensitive="true" pattern="OneToOne.*" />
     <pattern icon="question" case-sensitive="true" pattern="OneToMany.*" />
