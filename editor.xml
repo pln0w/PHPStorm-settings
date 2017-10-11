@@ -27,7 +27,11 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="important" case-sensitive="true" pattern="\bWOJTEK\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="\NOTE\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="ManyToOne.*" />
+    <pattern icon="question" case-sensitive="true" pattern="OneToOne.*" />
+    <pattern icon="question" case-sensitive="true" pattern="OneToMany.*" />
+    <pattern icon="question" case-sensitive="true" pattern="ManyToMany.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
