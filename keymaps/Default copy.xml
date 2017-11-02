@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl meta comma" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl meta period" />
+  </action>
+</keymap>
