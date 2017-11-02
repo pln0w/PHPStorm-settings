@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl meta comma" />
   </action>
