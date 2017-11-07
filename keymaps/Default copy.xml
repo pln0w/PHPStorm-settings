@@ -16,6 +16,9 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl meta comma" />
   </action>
