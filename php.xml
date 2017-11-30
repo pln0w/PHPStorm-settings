@@ -1,5 +1,15 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration tool_path="/usr/local/bin/phpmd" />
+    </phpmd_settings>
+  </component>
   <component name="PhpAutoImport" auto_import_namespace_scope="false" />
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="/usr/local/bin/phpcs" />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="9c5aa4e3-c681-4d7b-85ef-9a248fc421a7" name="PHP 7" debugger_id="php.debugger.XDebug" />
