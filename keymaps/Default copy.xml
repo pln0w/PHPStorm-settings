@@ -21,9 +21,11 @@
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl meta comma" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta period" />
+    <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt r" />
