@@ -5,6 +5,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".mysql" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
