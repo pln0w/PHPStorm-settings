@@ -13,6 +13,7 @@
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="hp" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
+      <mapping ext="monitor" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
