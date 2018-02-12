@@ -16,6 +16,7 @@
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="monitor" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
