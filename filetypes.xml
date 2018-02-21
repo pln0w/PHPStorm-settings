@@ -12,6 +12,7 @@
       <mapping ext="streammachine" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="php56" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="hp" type="PLAIN_TEXT" />
       <mapping ext="php71" type="PLAIN_TEXT" />
