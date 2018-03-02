@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="n" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="n" type="PLAIN_TEXT" />
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
