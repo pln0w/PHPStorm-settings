@@ -8,6 +8,7 @@
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="php56" type="PLAIN_TEXT" />
