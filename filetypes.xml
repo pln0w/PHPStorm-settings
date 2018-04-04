@@ -2,12 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="n" type="PLAIN_TEXT" />
+      <mapping pattern="Prestashop" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="php56" type="PLAIN_TEXT" />
@@ -16,6 +18,7 @@
       <mapping ext="php71" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
+      <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="monitor" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
