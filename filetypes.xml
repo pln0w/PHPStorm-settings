@@ -13,6 +13,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="json\" type="PLAIN_TEXT" />
       <mapping ext="php56" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
