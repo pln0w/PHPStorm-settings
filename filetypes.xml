@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="OrderRow" type="PHP" />
+      <mapping pattern="ib_logfile0" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
