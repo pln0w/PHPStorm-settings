@@ -4,11 +4,12 @@
       <mapping pattern="OrderRow" type="PHP" />
       <mapping pattern="ib_logfile0" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
-      <mapping pattern="Prestashop" type="PLAIN_TEXT" />
+      <mapping pattern="n" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="n" type="PLAIN_TEXT" />
+      <mapping pattern="Prestashop" type="PLAIN_TEXT" />
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
