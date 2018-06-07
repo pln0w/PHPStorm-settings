@@ -6,6 +6,7 @@
       <mapping pattern=".aws" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
       <mapping pattern="n" type="PLAIN_TEXT" />
+      <mapping pattern=".aws.dist" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
