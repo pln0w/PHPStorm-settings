@@ -4,7 +4,6 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="OrderRow" type="PHP" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="ib_logfile0" type="PLAIN_TEXT" />
       <mapping pattern=".aws" type="PLAIN_TEXT" />
       <mapping pattern="Prestashop" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
@@ -13,6 +12,7 @@
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
       <mapping pattern=".aws.dist" type="PLAIN_TEXT" />
+      <mapping pattern="ib_logfile0" type="PLAIN_TEXT" />
       <mapping pattern="NappsisWS" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="json\" type="PLAIN_TEXT" />
@@ -31,6 +31,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="aes" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
