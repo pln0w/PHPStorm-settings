@@ -14,6 +14,7 @@
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Prestashop" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="n" type="PLAIN_TEXT" />
