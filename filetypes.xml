@@ -12,7 +12,6 @@
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="diff_book_pages" type="PLAIN_TEXT" />
       <mapping pattern=".mysql" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Prestashop" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
@@ -20,6 +19,7 @@
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="n" type="PLAIN_TEXT" />
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
+      <mapping ext="img" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
