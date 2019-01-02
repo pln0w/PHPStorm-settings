@@ -23,6 +23,7 @@
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="streammachine" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="dockerenv" type="PLAIN_TEXT" />
       <mapping ext="tests" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
