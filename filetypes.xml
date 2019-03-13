@@ -21,6 +21,7 @@
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="json\" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="ebnf" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="hp" type="PLAIN_TEXT" />
