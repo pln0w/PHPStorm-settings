@@ -24,6 +24,7 @@
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="xfef" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
