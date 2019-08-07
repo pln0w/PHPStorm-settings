@@ -31,6 +31,7 @@
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="dockerenv" type="PLAIN_TEXT" />
       <mapping ext="php71" type="PLAIN_TEXT" />
       <mapping ext="json\" type="PLAIN_TEXT" />
