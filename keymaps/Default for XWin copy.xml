@@ -1,5 +1,9 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="EditorDuplicate" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
