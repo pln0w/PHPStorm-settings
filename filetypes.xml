@@ -21,7 +21,6 @@
       <mapping pattern=".mysql.example" type="PLAIN_TEXT" />
       <mapping ext="img" type="PLAIN_TEXT" />
       <mapping ext="json\" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="ebnf" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="hp" type="PLAIN_TEXT" />
