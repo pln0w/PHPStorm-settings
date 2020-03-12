@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://schema.phpunit.de/6.5/phpunit.xsd" />
     <ignored-resource url="http://www.bohemiancoding.com/sketch/ns" />
   </component>
 </application>

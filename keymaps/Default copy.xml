@@ -10,6 +10,9 @@
   </action>
   <action id="Debug" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="shift space" />
@@ -37,4 +40,11 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="latex.align_center" />
+  <action id="latex.align_left" />
+  <action id="latex.align_right" />
+  <action id="latex.bold" />
+  <action id="latex.italic" />
+  <action id="latex.underline" />
 </keymap>

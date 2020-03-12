@@ -1,9 +1,14 @@
 <scheme name="pln0w" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -907,6 +912,11 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="ede0ce" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -992,7 +1002,7 @@
     </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FOREGROUND" value="f26cff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1015,7 +1025,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="fff1de" />
+        <option name="FOREGROUND" value="ede0ce" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
@@ -1031,7 +1041,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="23bcf7" />
+        <option name="FOREGROUND" value="40c5ff" />
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
@@ -1044,9 +1054,17 @@
         <option name="FOREGROUND" value="ff9809" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+        <option name="BACKGROUND" value="292826" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ede0ce" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_STRING">
